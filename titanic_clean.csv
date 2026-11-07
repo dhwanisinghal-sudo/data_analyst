@@ -1,0 +1,892 @@
+survived,pclass,sex,age,sibsp,parch,fare,embarked,alone,age_missing,fare_capped,family,age_group
+0,3,male,22.0,1,0,7.25,S,False,False,7.25,2,Young adult
+1,1,female,38.0,1,0,71.2833,C,False,False,71.2833,2,Adult
+1,3,female,26.0,0,0,7.925,S,True,False,7.925,1,Young adult
+1,1,female,35.0,1,0,53.1,S,False,False,53.1,2,Young adult
+0,3,male,35.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,male,25.0,0,0,8.4583,Q,True,True,8.4583,1,Young adult
+0,1,male,54.0,0,0,51.8625,S,True,False,51.8625,1,Adult
+0,3,male,2.0,3,1,21.075,S,False,False,21.075,5,Child
+1,3,female,27.0,0,2,11.1333,S,False,False,11.1333,3,Young adult
+1,2,female,14.0,1,0,30.0708,C,False,False,30.0708,2,Teen
+1,3,female,4.0,1,1,16.7,S,False,False,16.7,3,Child
+1,1,female,58.0,0,0,26.55,S,True,False,26.55,1,Adult
+0,3,male,20.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,male,39.0,1,5,31.275,S,False,False,31.275,7,Adult
+0,3,female,14.0,0,0,7.8542,S,True,False,7.8542,1,Teen
+1,2,female,55.0,0,0,16.0,S,True,False,16.0,1,Adult
+0,3,male,2.0,4,1,29.125,Q,False,False,29.125,6,Child
+1,2,male,30.0,0,0,13.0,S,True,True,13.0,1,Young adult
+0,3,female,31.0,1,0,18.0,S,False,False,18.0,2,Young adult
+1,3,female,21.5,0,0,7.225,C,True,True,7.225,1,Young adult
+0,2,male,35.0,0,0,26.0,S,True,False,26.0,1,Young adult
+1,2,male,34.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,3,female,15.0,0,0,8.0292,Q,True,False,8.0292,1,Teen
+1,1,male,28.0,0,0,35.5,S,True,False,35.5,1,Young adult
+0,3,female,8.0,3,1,21.075,S,False,False,21.075,5,Child
+1,3,female,38.0,1,5,31.3875,S,False,False,31.3875,7,Adult
+0,3,male,25.0,0,0,7.225,C,True,True,7.225,1,Young adult
+0,1,male,19.0,3,2,263.0,S,False,False,249.00622000000035,6,Young adult
+1,3,female,21.5,0,0,7.8792,Q,True,True,7.8792,1,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,1,male,40.0,0,0,27.7208,C,True,False,27.7208,1,Adult
+1,1,female,35.0,1,0,146.5208,C,False,True,146.5208,2,Young adult
+1,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,2,male,66.0,0,0,10.5,S,True,False,10.5,1,Senior
+0,1,male,28.0,1,0,82.1708,C,False,False,82.1708,2,Young adult
+0,1,male,42.0,1,0,52.0,S,False,False,52.0,2,Adult
+1,3,male,25.0,0,0,7.2292,C,True,True,7.2292,1,Young adult
+0,3,male,21.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,female,18.0,2,0,18.0,S,False,False,18.0,3,Teen
+1,3,female,14.0,1,0,11.2417,C,False,False,11.2417,2,Teen
+0,3,female,40.0,1,0,9.475,S,False,False,9.475,2,Adult
+0,2,female,27.0,1,0,21.0,S,False,False,21.0,2,Young adult
+0,3,male,25.0,0,0,7.8958,C,True,True,7.8958,1,Young adult
+1,2,female,3.0,1,2,41.5792,C,False,False,41.5792,4,Child
+1,3,female,19.0,0,0,7.8792,Q,True,False,7.8792,1,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+0,3,male,25.0,1,0,15.5,Q,False,True,15.5,2,Young adult
+1,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,3,male,25.0,2,0,21.6792,C,False,True,21.6792,3,Young adult
+0,3,female,18.0,1,0,17.8,S,False,False,17.8,2,Teen
+0,3,male,7.0,4,1,39.6875,S,False,False,39.6875,6,Child
+0,3,male,21.0,0,0,7.8,S,True,False,7.8,1,Young adult
+1,1,female,49.0,1,0,76.7292,C,False,False,76.7292,2,Adult
+1,2,female,29.0,1,0,26.0,S,False,False,26.0,2,Young adult
+0,1,male,65.0,0,1,61.9792,C,False,False,61.9792,2,Senior
+1,1,male,40.0,0,0,35.5,S,True,True,35.5,1,Adult
+1,2,female,21.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,28.5,0,0,7.2292,C,True,False,7.2292,1,Young adult
+1,2,female,5.0,1,2,27.75,S,False,False,27.75,4,Child
+0,3,male,11.0,5,2,46.9,S,False,False,46.9,8,Child
+0,3,male,22.0,0,0,7.2292,C,True,False,7.2292,1,Young adult
+1,1,female,38.0,0,0,80.0,S,True,False,80.0,1,Adult
+0,1,male,45.0,1,0,83.475,S,False,False,83.475,2,Adult
+0,3,male,4.0,3,2,27.9,S,False,False,27.9,6,Child
+0,1,male,40.0,0,0,27.7208,C,True,True,27.7208,1,Adult
+1,3,male,25.0,1,1,15.2458,C,False,True,15.2458,3,Young adult
+1,2,female,29.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,19.0,0,0,8.1583,S,True,False,8.1583,1,Young adult
+1,3,female,17.0,4,2,7.925,S,False,False,7.925,7,Teen
+0,3,male,26.0,2,0,8.6625,S,False,False,8.6625,3,Young adult
+0,2,male,32.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,female,16.0,5,2,46.9,S,False,False,46.9,8,Teen
+0,2,male,21.0,0,0,73.5,S,True,False,73.5,1,Young adult
+0,3,male,26.0,1,0,14.4542,C,False,False,14.4542,2,Young adult
+1,3,male,32.0,0,0,56.4958,S,True,False,56.4958,1,Young adult
+0,3,male,25.0,0,0,7.65,S,True,False,7.65,1,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+1,2,male,0.83,0,2,29.0,S,False,False,29.0,3,Child
+1,3,female,30.0,0,0,12.475,S,True,False,12.475,1,Young adult
+0,3,male,22.0,0,0,9.0,S,True,False,9.0,1,Young adult
+1,3,male,29.0,0,0,9.5,S,True,False,9.5,1,Young adult
+1,3,female,21.5,0,0,7.7875,Q,True,True,7.7875,1,Young adult
+0,1,male,28.0,0,0,47.1,S,True,False,47.1,1,Young adult
+1,2,female,17.0,0,0,10.5,S,True,False,10.5,1,Teen
+1,3,female,33.0,3,0,15.85,S,False,False,15.85,4,Young adult
+0,3,male,16.0,1,3,34.375,S,False,False,34.375,5,Teen
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+1,1,female,23.0,3,2,263.0,S,False,False,249.00622000000035,6,Young adult
+0,3,male,24.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,male,29.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,male,20.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+0,1,male,46.0,1,0,61.175,S,False,False,61.175,2,Adult
+0,3,male,26.0,1,2,20.575,S,False,False,20.575,4,Young adult
+0,3,male,59.0,0,0,7.25,S,True,False,7.25,1,Adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+0,1,male,71.0,0,0,34.6542,C,True,False,34.6542,1,Senior
+1,1,male,23.0,0,1,63.3583,C,False,False,63.3583,2,Young adult
+1,2,female,34.0,0,1,23.0,S,False,False,23.0,2,Young adult
+0,2,male,34.0,1,0,26.0,S,False,False,26.0,2,Young adult
+0,3,female,28.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,1,male,21.0,0,1,77.2875,S,False,False,77.2875,2,Young adult
+0,3,male,33.0,0,0,8.6542,S,True,False,8.6542,1,Young adult
+0,3,male,37.0,2,0,7.925,S,False,False,7.925,3,Adult
+0,3,male,28.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,3,female,21.0,0,0,7.65,S,True,False,7.65,1,Young adult
+1,3,male,25.0,0,0,7.775,S,True,True,7.775,1,Young adult
+0,3,male,38.0,0,0,7.8958,S,True,False,7.8958,1,Adult
+1,3,female,21.5,1,0,24.15,Q,False,True,24.15,2,Young adult
+0,1,male,47.0,0,0,52.0,S,True,False,52.0,1,Adult
+0,3,female,14.5,1,0,14.4542,C,False,False,14.4542,2,Teen
+0,3,male,22.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,female,20.0,1,0,9.825,S,False,False,9.825,2,Young adult
+0,3,female,17.0,0,0,14.4583,C,True,False,14.4583,1,Teen
+0,3,male,21.0,0,0,7.925,S,True,False,7.925,1,Young adult
+0,3,male,70.5,0,0,7.75,Q,True,False,7.75,1,Senior
+0,2,male,29.0,1,0,21.0,S,False,False,21.0,2,Young adult
+0,1,male,24.0,0,1,247.5208,C,False,False,247.5208,2,Young adult
+0,3,female,2.0,4,2,31.275,S,False,False,31.275,7,Child
+0,2,male,21.0,2,0,73.5,S,False,False,73.5,3,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+0,2,male,32.5,1,0,30.0708,C,False,False,30.0708,2,Young adult
+1,2,female,32.5,0,0,13.0,S,True,False,13.0,1,Young adult
+0,1,male,54.0,0,1,77.2875,S,False,False,77.2875,2,Adult
+1,3,male,12.0,1,0,11.2417,C,False,False,11.2417,2,Child
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,3,male,24.0,0,0,7.1417,S,True,False,7.1417,1,Young adult
+1,3,female,21.5,1,1,22.3583,C,False,True,22.3583,3,Young adult
+0,3,male,45.0,0,0,6.975,S,True,False,6.975,1,Adult
+0,3,male,33.0,0,0,7.8958,C,True,False,7.8958,1,Young adult
+0,3,male,20.0,0,0,7.05,S,True,False,7.05,1,Young adult
+0,3,female,47.0,1,0,14.5,S,False,False,14.5,2,Adult
+1,2,female,29.0,1,0,26.0,S,False,False,26.0,2,Young adult
+0,2,male,25.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,2,male,23.0,0,0,15.0458,C,True,False,15.0458,1,Young adult
+1,1,female,19.0,0,2,26.2833,S,False,False,26.2833,3,Young adult
+0,1,male,37.0,1,0,53.1,S,False,False,53.1,2,Adult
+0,3,male,16.0,0,0,9.2167,S,True,False,9.2167,1,Teen
+0,1,male,24.0,0,0,79.2,C,True,False,79.2,1,Young adult
+0,3,female,21.5,0,2,15.2458,C,False,True,15.2458,3,Young adult
+1,3,female,22.0,0,0,7.75,S,True,False,7.75,1,Young adult
+1,3,female,24.0,1,0,15.85,S,False,False,15.85,2,Young adult
+0,3,male,19.0,0,0,6.75,Q,True,False,6.75,1,Young adult
+0,2,male,18.0,0,0,11.5,S,True,False,11.5,1,Teen
+0,2,male,19.0,1,1,36.75,S,False,False,36.75,3,Young adult
+1,3,male,27.0,0,0,7.7958,S,True,False,7.7958,1,Young adult
+0,3,female,9.0,2,2,34.375,S,False,False,34.375,5,Child
+0,2,male,36.5,0,2,26.0,S,False,False,26.0,3,Adult
+0,2,male,42.0,0,0,13.0,S,True,False,13.0,1,Adult
+0,2,male,51.0,0,0,12.525,S,True,False,12.525,1,Adult
+1,1,female,22.0,1,0,66.6,S,False,False,66.6,2,Young adult
+0,3,male,55.5,0,0,8.05,S,True,False,8.05,1,Adult
+0,3,male,40.5,0,2,14.5,S,False,False,14.5,3,Adult
+0,3,male,25.0,0,0,7.3125,S,True,True,7.3125,1,Young adult
+0,1,male,51.0,0,1,61.3792,C,False,False,61.3792,2,Adult
+1,3,female,16.0,0,0,7.7333,Q,True,False,7.7333,1,Teen
+0,3,male,30.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,male,25.0,0,0,8.6625,S,True,True,8.6625,1,Young adult
+0,3,male,25.0,8,2,69.55,S,False,True,69.55,11,Young adult
+0,3,male,44.0,0,1,16.1,S,False,False,16.1,2,Adult
+1,2,female,40.0,0,0,15.75,S,True,False,15.75,1,Adult
+0,3,male,26.0,0,0,7.775,S,True,False,7.775,1,Young adult
+0,3,male,17.0,0,0,8.6625,S,True,False,8.6625,1,Teen
+0,3,male,1.0,4,1,39.6875,S,False,False,39.6875,6,Child
+1,3,male,9.0,0,2,20.525,S,False,False,20.525,3,Child
+1,1,female,35.0,0,1,55.0,S,False,True,55.0,2,Young adult
+0,3,female,45.0,1,4,27.9,S,False,False,27.9,6,Adult
+0,1,male,40.0,0,0,25.925,S,True,True,25.925,1,Adult
+0,3,male,28.0,0,0,56.4958,S,True,False,56.4958,1,Young adult
+0,1,male,61.0,0,0,33.5,S,True,False,33.5,1,Senior
+0,3,male,4.0,4,1,29.125,Q,False,False,29.125,6,Child
+1,3,female,1.0,1,1,11.1333,S,False,False,11.1333,3,Child
+0,3,male,21.0,0,0,7.925,S,True,False,7.925,1,Young adult
+0,1,male,56.0,0,0,30.6958,C,True,False,30.6958,1,Adult
+0,3,male,18.0,1,1,7.8542,S,False,False,7.8542,3,Teen
+0,3,male,25.0,3,1,25.4667,S,False,True,25.4667,5,Young adult
+0,1,female,50.0,0,0,28.7125,C,True,False,28.7125,1,Adult
+0,2,male,30.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,male,36.0,0,0,0.0,S,True,False,0.0,1,Adult
+0,3,female,21.5,8,2,69.55,S,False,True,69.55,11,Young adult
+0,2,male,30.0,0,0,15.05,C,True,True,15.05,1,Young adult
+0,3,male,9.0,4,2,31.3875,S,False,False,31.3875,7,Child
+1,2,male,1.0,2,1,39.0,S,False,False,39.0,4,Child
+1,3,female,4.0,0,2,22.025,S,False,False,22.025,3,Child
+0,1,male,40.0,0,0,50.0,S,True,True,50.0,1,Adult
+1,3,female,21.5,1,0,15.5,Q,False,True,15.5,2,Young adult
+1,1,male,45.0,0,0,26.55,S,True,False,26.55,1,Adult
+0,3,male,40.0,1,1,15.5,Q,False,False,15.5,3,Adult
+0,3,male,36.0,0,0,7.8958,S,True,False,7.8958,1,Adult
+1,2,female,32.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,2,male,19.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,3,female,19.0,1,0,7.8542,S,False,False,7.8542,2,Young adult
+1,2,male,3.0,1,1,26.0,S,False,False,26.0,3,Child
+1,1,female,44.0,0,0,27.7208,C,True,False,27.7208,1,Adult
+1,1,female,58.0,0,0,146.5208,C,True,False,146.5208,1,Adult
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,3,male,42.0,0,1,8.4042,S,False,False,8.4042,2,Adult
+1,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,2,female,24.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,male,28.0,0,0,9.5,S,True,False,9.5,1,Young adult
+0,3,male,25.0,8,2,69.55,S,False,True,69.55,11,Young adult
+0,3,male,34.0,0,0,6.4958,S,True,False,6.4958,1,Young adult
+0,3,male,45.5,0,0,7.225,C,True,False,7.225,1,Adult
+1,3,male,18.0,0,0,8.05,S,True,False,8.05,1,Teen
+0,3,female,2.0,0,1,10.4625,S,False,False,10.4625,2,Child
+0,3,male,32.0,1,0,15.85,S,False,False,15.85,2,Young adult
+1,3,male,26.0,0,0,18.7875,C,True,False,18.7875,1,Young adult
+1,3,female,16.0,0,0,7.75,Q,True,False,7.75,1,Teen
+1,1,male,40.0,0,0,31.0,C,True,False,31.0,1,Adult
+0,3,male,24.0,0,0,7.05,S,True,False,7.05,1,Young adult
+1,2,female,35.0,0,0,21.0,S,True,False,21.0,1,Young adult
+0,3,male,22.0,0,0,7.25,S,True,False,7.25,1,Young adult
+0,2,male,30.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,male,25.0,1,0,7.75,Q,False,True,7.75,2,Young adult
+1,1,female,31.0,1,0,113.275,C,False,False,113.275,2,Young adult
+1,3,female,27.0,0,0,7.925,S,True,False,7.925,1,Young adult
+0,2,male,42.0,1,0,27.0,S,False,False,27.0,2,Adult
+1,1,female,32.0,0,0,76.2917,C,True,False,76.2917,1,Young adult
+0,2,male,30.0,0,0,10.5,S,True,False,10.5,1,Young adult
+1,3,male,16.0,0,0,8.05,S,True,False,8.05,1,Teen
+0,2,male,27.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,male,51.0,0,0,8.05,S,True,False,8.05,1,Adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+1,1,male,38.0,1,0,90.0,S,False,False,90.0,2,Adult
+0,3,male,22.0,0,0,9.35,S,True,False,9.35,1,Young adult
+1,2,male,19.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,20.5,0,0,7.25,S,True,False,7.25,1,Young adult
+0,2,male,18.0,0,0,13.0,S,True,False,13.0,1,Teen
+0,3,female,21.5,3,1,25.4667,S,False,True,25.4667,5,Young adult
+1,1,female,35.0,1,0,83.475,S,False,False,83.475,2,Young adult
+0,3,male,29.0,0,0,7.775,S,True,False,7.775,1,Young adult
+0,2,male,59.0,0,0,13.5,S,True,False,13.5,1,Adult
+1,3,female,5.0,4,2,31.3875,S,False,False,31.3875,7,Child
+0,2,male,24.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,female,21.5,0,0,7.55,S,True,True,7.55,1,Young adult
+0,2,male,44.0,1,0,26.0,S,False,False,26.0,2,Adult
+1,2,female,8.0,0,2,26.25,S,False,False,26.25,3,Child
+0,2,male,19.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,2,male,33.0,0,0,12.275,S,True,False,12.275,1,Young adult
+0,3,female,21.5,1,0,14.4542,C,False,True,14.4542,2,Young adult
+1,3,female,21.5,1,0,15.5,Q,False,True,15.5,2,Young adult
+0,2,male,29.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,22.0,0,0,7.125,S,True,False,7.125,1,Young adult
+0,3,male,30.0,0,0,7.225,C,True,False,7.225,1,Young adult
+0,1,male,44.0,2,0,90.0,Q,False,False,90.0,3,Adult
+0,3,female,25.0,0,0,7.775,S,True,False,7.775,1,Young adult
+1,2,female,24.0,0,2,14.5,S,False,False,14.5,3,Young adult
+1,1,male,37.0,1,1,52.5542,S,False,False,52.5542,3,Adult
+0,2,male,54.0,1,0,26.0,S,False,False,26.0,2,Adult
+0,3,male,25.0,0,0,7.25,S,True,True,7.25,1,Young adult
+0,3,female,29.0,1,1,10.4625,S,False,False,10.4625,3,Young adult
+0,1,male,62.0,0,0,26.55,S,True,False,26.55,1,Senior
+0,3,male,30.0,1,0,16.1,S,False,False,16.1,2,Young adult
+0,3,female,41.0,0,2,20.2125,S,False,False,20.2125,3,Adult
+1,3,female,29.0,0,2,15.2458,C,False,False,15.2458,3,Young adult
+1,1,female,35.0,0,0,79.2,C,True,True,79.2,1,Young adult
+1,1,female,30.0,0,0,86.5,S,True,False,86.5,1,Young adult
+1,1,female,35.0,0,0,512.3292,C,True,False,249.00622000000035,1,Young adult
+1,2,female,50.0,0,1,26.0,S,False,False,26.0,2,Adult
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,3,male,3.0,4,2,31.3875,S,False,False,31.3875,7,Child
+0,1,male,52.0,1,1,79.65,S,False,False,79.65,3,Adult
+0,1,male,40.0,0,0,0.0,S,True,False,0.0,1,Adult
+0,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,2,male,36.0,0,0,10.5,S,True,False,10.5,1,Adult
+0,3,male,16.0,4,1,39.6875,S,False,False,39.6875,6,Teen
+1,3,male,25.0,1,0,7.775,S,False,False,7.775,2,Young adult
+1,1,female,58.0,0,1,153.4625,S,False,False,153.4625,2,Adult
+1,1,female,35.0,0,0,135.6333,S,True,False,135.6333,1,Young adult
+0,1,male,40.0,0,0,31.0,S,True,True,31.0,1,Adult
+1,3,male,25.0,0,0,0.0,S,True,False,0.0,1,Young adult
+1,2,female,41.0,0,1,19.5,S,False,False,19.5,2,Adult
+0,1,male,37.0,0,1,29.7,C,False,False,29.7,2,Adult
+1,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,1,female,63.0,1,0,77.9583,S,False,False,77.9583,2,Senior
+0,3,female,45.0,0,0,7.75,S,True,False,7.75,1,Adult
+0,2,male,30.0,0,0,0.0,S,True,True,0.0,1,Young adult
+0,3,male,7.0,4,1,29.125,Q,False,False,29.125,6,Child
+1,3,female,35.0,1,1,20.25,S,False,False,20.25,3,Young adult
+0,3,male,65.0,0,0,7.75,Q,True,False,7.75,1,Senior
+0,3,male,28.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+0,3,male,16.0,0,0,9.5,S,True,False,9.5,1,Teen
+1,3,male,19.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,1,male,40.0,0,0,26.0,S,True,True,26.0,1,Adult
+0,3,male,33.0,0,0,8.6625,C,True,False,8.6625,1,Young adult
+1,3,male,30.0,0,0,9.5,S,True,False,9.5,1,Young adult
+0,3,male,22.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,2,male,42.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,3,female,22.0,0,0,7.75,Q,True,False,7.75,1,Young adult
+1,1,female,26.0,0,0,78.85,S,True,False,78.85,1,Young adult
+1,1,female,19.0,1,0,91.0792,C,False,False,91.0792,2,Young adult
+0,2,male,36.0,0,0,12.875,C,True,False,12.875,1,Adult
+0,3,female,24.0,0,0,8.85,S,True,False,8.85,1,Young adult
+0,3,male,24.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,1,male,40.0,0,0,27.7208,C,True,True,27.7208,1,Adult
+0,3,male,23.5,0,0,7.2292,C,True,False,7.2292,1,Young adult
+0,1,female,2.0,1,2,151.55,S,False,False,151.55,4,Child
+1,1,male,40.0,0,0,30.5,S,True,True,30.5,1,Adult
+1,1,female,50.0,0,1,247.5208,C,False,False,247.5208,2,Adult
+1,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,3,male,25.0,2,0,23.25,Q,False,True,23.25,3,Young adult
+0,3,male,19.0,0,0,0.0,S,True,False,0.0,1,Young adult
+1,2,female,28.0,0,0,12.35,Q,True,True,12.35,1,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+1,1,male,0.92,1,2,151.55,S,False,False,151.55,4,Child
+1,1,female,35.0,0,0,110.8833,C,True,True,110.8833,1,Young adult
+1,1,female,17.0,1,0,108.9,C,False,False,108.9,2,Teen
+0,2,male,30.0,1,0,24.0,C,False,False,24.0,2,Young adult
+1,1,female,30.0,0,0,56.9292,C,True,False,56.9292,1,Young adult
+1,1,female,24.0,0,0,83.1583,C,True,False,83.1583,1,Young adult
+1,1,female,18.0,2,2,262.375,C,False,False,249.00622000000035,5,Teen
+0,2,female,26.0,1,1,26.0,S,False,False,26.0,3,Young adult
+0,3,male,28.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,2,male,43.0,1,1,26.25,S,False,False,26.25,3,Adult
+1,3,female,26.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+1,2,female,24.0,1,0,26.0,S,False,False,26.0,2,Young adult
+0,2,male,54.0,0,0,14.0,S,True,False,14.0,1,Adult
+1,1,female,31.0,0,2,164.8667,S,False,False,164.8667,3,Young adult
+1,1,female,40.0,1,1,134.5,C,False,False,134.5,3,Adult
+0,3,male,22.0,0,0,7.25,S,True,False,7.25,1,Young adult
+0,3,male,27.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,2,female,30.0,0,0,12.35,Q,True,False,12.35,1,Young adult
+1,2,female,22.0,1,1,29.0,S,False,False,29.0,3,Young adult
+0,3,male,25.0,8,2,69.55,S,False,True,69.55,11,Young adult
+1,1,female,36.0,0,0,135.6333,C,True,False,135.6333,1,Adult
+0,3,male,61.0,0,0,6.2375,S,True,False,6.2375,1,Senior
+1,2,female,36.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,3,female,31.0,1,1,20.525,S,False,False,20.525,3,Young adult
+1,1,female,16.0,0,1,57.9792,C,False,False,57.9792,2,Teen
+1,3,female,21.5,2,0,23.25,Q,False,True,23.25,3,Young adult
+0,1,male,45.5,0,0,28.5,S,True,False,28.5,1,Adult
+0,1,male,38.0,0,1,153.4625,S,False,False,153.4625,2,Adult
+0,3,male,16.0,2,0,18.0,S,False,False,18.0,3,Teen
+1,1,female,35.0,1,0,133.65,S,False,True,133.65,2,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,1,male,29.0,1,0,66.6,S,False,False,66.6,2,Young adult
+1,1,female,41.0,0,0,134.5,C,True,False,134.5,1,Adult
+1,3,male,45.0,0,0,8.05,S,True,False,8.05,1,Adult
+0,1,male,45.0,0,0,35.5,S,True,False,35.5,1,Adult
+1,2,male,2.0,1,1,26.0,S,False,False,26.0,3,Child
+1,1,female,24.0,3,2,263.0,S,False,False,249.00622000000035,6,Young adult
+0,2,male,28.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,2,male,25.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,2,male,36.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,2,female,24.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,2,female,40.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,3,female,21.5,1,0,16.1,S,False,True,16.1,2,Young adult
+1,3,male,3.0,1,1,15.9,S,False,False,15.9,3,Child
+0,3,male,42.0,0,0,8.6625,S,True,False,8.6625,1,Adult
+0,3,male,23.0,0,0,9.225,S,True,False,9.225,1,Young adult
+0,1,male,40.0,0,0,35.0,S,True,True,35.0,1,Adult
+0,3,male,15.0,1,1,7.2292,C,False,False,7.2292,3,Teen
+0,3,male,25.0,1,0,17.8,S,False,False,17.8,2,Young adult
+0,3,male,25.0,0,0,7.225,C,True,True,7.225,1,Young adult
+0,3,male,28.0,0,0,9.5,S,True,False,9.5,1,Young adult
+1,1,female,22.0,0,1,55.0,S,False,False,55.0,2,Young adult
+0,2,female,38.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,3,female,21.5,0,0,7.8792,Q,True,True,7.8792,1,Young adult
+1,3,female,21.5,0,0,7.8792,Q,True,True,7.8792,1,Young adult
+0,3,male,40.0,1,4,27.9,S,False,False,27.9,6,Adult
+0,2,male,29.0,1,0,27.7208,C,False,False,27.7208,2,Young adult
+0,3,female,45.0,0,1,14.4542,C,False,False,14.4542,2,Adult
+0,3,male,35.0,0,0,7.05,S,True,False,7.05,1,Young adult
+0,3,male,25.0,1,0,15.5,Q,False,True,15.5,2,Young adult
+0,3,male,30.0,0,0,7.25,S,True,False,7.25,1,Young adult
+1,1,female,60.0,1,0,75.25,C,False,False,75.25,2,Adult
+1,3,female,21.5,0,0,7.2292,C,True,True,7.2292,1,Young adult
+1,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,1,female,24.0,0,0,69.3,C,True,False,69.3,1,Young adult
+1,1,male,25.0,1,0,55.4417,C,False,False,55.4417,2,Young adult
+0,3,male,18.0,1,0,6.4958,S,False,False,6.4958,2,Teen
+0,3,male,19.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,1,male,22.0,0,0,135.6333,C,True,False,135.6333,1,Young adult
+0,3,female,3.0,3,1,21.075,S,False,False,21.075,5,Child
+1,1,female,35.0,1,0,82.1708,C,False,True,82.1708,2,Young adult
+1,3,female,22.0,0,0,7.25,S,True,False,7.25,1,Young adult
+0,1,male,27.0,0,2,211.5,C,False,False,211.5,3,Young adult
+0,3,male,20.0,0,0,4.0125,C,True,False,4.0125,1,Young adult
+0,3,male,19.0,0,0,7.775,S,True,False,7.775,1,Young adult
+1,1,female,42.0,0,0,227.525,C,True,False,227.525,1,Adult
+1,3,female,1.0,0,2,15.7417,C,False,False,15.7417,3,Child
+0,3,male,32.0,0,0,7.925,S,True,False,7.925,1,Young adult
+1,1,female,35.0,1,0,52.0,S,False,False,52.0,2,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,2,male,18.0,0,0,73.5,S,True,False,73.5,1,Teen
+0,3,male,1.0,5,2,46.9,S,False,False,46.9,8,Child
+1,2,female,36.0,0,0,13.0,S,True,False,13.0,1,Adult
+0,3,male,25.0,0,0,7.7292,Q,True,True,7.7292,1,Young adult
+1,2,female,17.0,0,0,12.0,C,True,False,12.0,1,Teen
+1,1,male,36.0,1,2,120.0,S,False,False,120.0,4,Adult
+1,3,male,21.0,0,0,7.7958,S,True,False,7.7958,1,Young adult
+0,3,male,28.0,2,0,7.925,S,False,False,7.925,3,Young adult
+1,1,female,23.0,1,0,113.275,C,False,False,113.275,2,Young adult
+1,3,female,24.0,0,2,16.7,S,False,False,16.7,3,Young adult
+0,3,male,22.0,0,0,7.7958,S,True,False,7.7958,1,Young adult
+0,3,female,31.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+0,2,male,46.0,0,0,26.0,S,True,False,26.0,1,Adult
+0,2,male,23.0,0,0,10.5,S,True,False,10.5,1,Young adult
+1,2,female,28.0,0,0,12.65,S,True,False,12.65,1,Young adult
+1,3,male,39.0,0,0,7.925,S,True,False,7.925,1,Adult
+0,3,male,26.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,female,21.0,1,0,9.825,S,False,False,9.825,2,Young adult
+0,3,male,28.0,1,0,15.85,S,False,False,15.85,2,Young adult
+0,3,female,20.0,0,0,8.6625,S,True,False,8.6625,1,Young adult
+0,2,male,34.0,1,0,21.0,S,False,False,21.0,2,Young adult
+0,3,male,51.0,0,0,7.75,S,True,False,7.75,1,Adult
+1,2,male,3.0,1,1,18.75,S,False,False,18.75,3,Child
+0,3,male,21.0,0,0,7.775,S,True,False,7.775,1,Young adult
+0,3,female,21.5,3,1,25.4667,S,False,True,25.4667,5,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,3,male,25.0,0,0,6.8583,Q,True,True,6.8583,1,Young adult
+1,1,female,33.0,1,0,90.0,Q,False,False,90.0,2,Young adult
+0,2,male,30.0,0,0,0.0,S,True,True,0.0,1,Young adult
+1,3,male,44.0,0,0,7.925,S,True,False,7.925,1,Adult
+0,3,female,21.5,0,0,8.05,S,True,True,8.05,1,Young adult
+1,2,female,34.0,1,1,32.5,S,False,False,32.5,3,Young adult
+1,2,female,18.0,0,2,13.0,S,False,False,13.0,3,Teen
+0,2,male,30.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,female,10.0,0,2,24.15,S,False,False,24.15,3,Child
+0,3,male,25.0,0,0,7.8958,C,True,True,7.8958,1,Young adult
+0,3,male,21.0,0,0,7.7333,Q,True,False,7.7333,1,Young adult
+0,3,male,29.0,0,0,7.875,S,True,False,7.875,1,Young adult
+0,3,female,28.0,1,1,14.4,S,False,False,14.4,3,Young adult
+0,3,male,18.0,1,1,20.2125,S,False,False,20.2125,3,Teen
+0,3,male,25.0,0,0,7.25,S,True,True,7.25,1,Young adult
+1,2,female,28.0,1,0,26.0,S,False,False,26.0,2,Young adult
+1,2,female,19.0,0,0,26.0,S,True,False,26.0,1,Young adult
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,3,male,32.0,0,0,8.05,S,True,False,8.05,1,Young adult
+1,1,male,28.0,0,0,26.55,S,True,False,26.55,1,Young adult
+1,3,female,21.5,1,0,16.1,S,False,True,16.1,2,Young adult
+1,2,female,42.0,1,0,26.0,S,False,False,26.0,2,Adult
+0,3,male,17.0,0,0,7.125,S,True,False,7.125,1,Teen
+0,1,male,50.0,1,0,55.9,S,False,False,55.9,2,Adult
+1,1,female,14.0,1,2,120.0,S,False,False,120.0,4,Teen
+0,3,female,21.0,2,2,34.375,S,False,False,34.375,5,Young adult
+1,2,female,24.0,2,3,18.75,S,False,False,18.75,6,Young adult
+0,1,male,64.0,1,4,263.0,S,False,False,249.00622000000035,6,Senior
+0,2,male,31.0,0,0,10.5,S,True,False,10.5,1,Young adult
+1,2,female,45.0,1,1,26.25,S,False,False,26.25,3,Adult
+0,3,male,20.0,0,0,9.5,S,True,False,9.5,1,Young adult
+0,3,male,25.0,1,0,7.775,S,False,False,7.775,2,Young adult
+1,2,female,28.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,3,male,25.0,0,0,8.1125,S,True,True,8.1125,1,Young adult
+1,1,male,4.0,0,2,81.8583,S,False,False,81.8583,3,Child
+1,2,female,13.0,0,1,19.5,S,False,False,19.5,2,Teen
+1,1,male,34.0,0,0,26.55,S,True,False,26.55,1,Young adult
+1,3,female,5.0,2,1,19.2583,C,False,False,19.2583,4,Child
+1,1,male,52.0,0,0,30.5,S,True,False,30.5,1,Adult
+0,2,male,36.0,1,2,27.75,S,False,False,27.75,4,Adult
+0,3,male,25.0,1,0,19.9667,S,False,True,19.9667,2,Young adult
+0,1,male,30.0,0,0,27.75,C,True,False,27.75,1,Young adult
+1,1,male,49.0,1,0,89.1042,C,False,False,89.1042,2,Adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+1,3,male,29.0,0,0,7.8958,C,True,False,7.8958,1,Young adult
+0,1,male,65.0,0,0,26.55,S,True,False,26.55,1,Senior
+1,1,female,35.0,1,0,51.8625,S,False,True,51.8625,2,Young adult
+1,2,female,50.0,0,0,10.5,S,True,False,10.5,1,Adult
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,1,male,48.0,0,0,26.55,S,True,False,26.55,1,Adult
+0,3,male,34.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,1,male,47.0,0,0,38.5,S,True,False,38.5,1,Adult
+0,2,male,48.0,0,0,13.0,S,True,False,13.0,1,Adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+0,3,male,38.0,0,0,7.05,S,True,False,7.05,1,Adult
+0,2,male,30.0,0,0,0.0,S,True,True,0.0,1,Young adult
+0,1,male,56.0,0,0,26.55,S,True,False,26.55,1,Adult
+0,3,male,25.0,0,0,7.725,Q,True,True,7.725,1,Young adult
+1,3,female,0.75,2,1,19.2583,C,False,False,19.2583,4,Child
+0,3,male,25.0,0,0,7.25,S,True,True,7.25,1,Young adult
+0,3,male,38.0,0,0,8.6625,S,True,False,8.6625,1,Adult
+1,2,female,33.0,1,2,27.75,S,False,False,27.75,4,Young adult
+1,2,female,23.0,0,0,13.7917,C,True,False,13.7917,1,Young adult
+0,3,female,22.0,0,0,9.8375,S,True,False,9.8375,1,Young adult
+0,1,male,40.0,0,0,52.0,S,True,True,52.0,1,Adult
+0,2,male,34.0,1,0,21.0,S,False,False,21.0,2,Young adult
+0,3,male,29.0,1,0,7.0458,S,False,False,7.0458,2,Young adult
+0,3,male,22.0,0,0,7.5208,S,True,False,7.5208,1,Young adult
+1,3,female,2.0,0,1,12.2875,S,False,False,12.2875,2,Child
+0,3,male,9.0,5,2,46.9,S,False,False,46.9,8,Child
+0,2,male,30.0,0,0,0.0,S,True,True,0.0,1,Young adult
+0,3,male,50.0,0,0,8.05,S,True,False,8.05,1,Adult
+1,3,female,63.0,0,0,9.5875,S,True,False,9.5875,1,Senior
+1,1,male,25.0,1,0,91.0792,C,False,False,91.0792,2,Young adult
+0,3,female,21.5,3,1,25.4667,S,False,True,25.4667,5,Young adult
+1,1,female,35.0,1,0,90.0,S,False,False,90.0,2,Young adult
+0,1,male,58.0,0,0,29.7,C,True,False,29.7,1,Adult
+0,3,male,30.0,0,0,8.05,S,True,False,8.05,1,Young adult
+1,3,male,9.0,1,1,15.9,S,False,False,15.9,3,Child
+0,3,male,25.0,1,0,19.9667,S,False,True,19.9667,2,Young adult
+0,3,male,21.0,0,0,7.25,S,True,False,7.25,1,Young adult
+0,1,male,55.0,0,0,30.5,S,True,False,30.5,1,Adult
+0,1,male,71.0,0,0,49.5042,C,True,False,49.5042,1,Senior
+0,3,male,21.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,male,25.0,0,0,14.4583,C,True,True,14.4583,1,Young adult
+1,1,female,54.0,1,0,78.2667,C,False,False,78.2667,2,Adult
+0,3,male,25.0,0,0,15.1,S,True,True,15.1,1,Young adult
+0,1,female,25.0,1,2,151.55,S,False,False,151.55,4,Young adult
+0,3,male,24.0,0,0,7.7958,S,True,False,7.7958,1,Young adult
+0,3,male,17.0,0,0,8.6625,S,True,False,8.6625,1,Teen
+0,3,female,21.0,0,0,7.75,Q,True,False,7.75,1,Young adult
+0,3,female,21.5,0,0,7.6292,Q,True,True,7.6292,1,Young adult
+0,3,female,37.0,0,0,9.5875,S,True,False,9.5875,1,Adult
+1,1,female,16.0,0,0,86.5,S,True,False,86.5,1,Teen
+0,1,male,18.0,1,0,108.9,C,False,False,108.9,2,Teen
+1,2,female,33.0,0,2,26.0,S,False,False,26.0,3,Young adult
+1,1,male,40.0,0,0,26.55,S,True,True,26.55,1,Adult
+0,3,male,28.0,0,0,22.525,S,True,False,22.525,1,Young adult
+1,3,male,26.0,0,0,56.4958,S,True,False,56.4958,1,Young adult
+1,3,male,29.0,0,0,7.75,Q,True,False,7.75,1,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+1,1,male,36.0,0,0,26.2875,S,True,False,26.2875,1,Adult
+1,1,female,54.0,1,0,59.4,C,False,False,59.4,2,Adult
+0,3,male,24.0,0,0,7.4958,S,True,False,7.4958,1,Young adult
+0,1,male,47.0,0,0,34.0208,S,True,False,34.0208,1,Adult
+1,2,female,34.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,25.0,0,0,24.15,Q,True,True,24.15,1,Young adult
+1,2,female,36.0,1,0,26.0,S,False,False,26.0,2,Adult
+0,3,male,32.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,1,female,30.0,0,0,93.5,S,True,False,93.5,1,Young adult
+0,3,male,22.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,3,male,25.0,0,0,7.225,C,True,True,7.225,1,Young adult
+1,1,female,44.0,0,1,57.9792,C,False,False,57.9792,2,Adult
+0,3,male,25.0,0,0,7.2292,C,True,True,7.2292,1,Young adult
+0,3,male,40.5,0,0,7.75,Q,True,False,7.75,1,Adult
+1,2,female,50.0,0,0,10.5,S,True,False,10.5,1,Adult
+0,1,male,40.0,0,0,221.7792,S,True,True,221.7792,1,Adult
+0,3,male,39.0,0,0,7.925,S,True,False,7.925,1,Adult
+0,2,male,23.0,2,1,11.5,S,False,False,11.5,4,Young adult
+1,2,female,2.0,1,1,26.0,S,False,False,26.0,3,Child
+0,3,male,25.0,0,0,7.2292,C,True,True,7.2292,1,Young adult
+0,3,male,17.0,1,1,7.2292,C,False,False,7.2292,3,Teen
+1,3,female,21.5,0,2,22.3583,C,False,True,22.3583,3,Young adult
+0,3,female,30.0,0,0,8.6625,S,True,False,8.6625,1,Young adult
+1,2,female,7.0,0,2,26.25,S,False,False,26.25,3,Child
+0,1,male,45.0,0,0,26.55,S,True,False,26.55,1,Adult
+1,1,female,30.0,0,0,106.425,C,True,False,106.425,1,Young adult
+0,3,male,25.0,0,0,14.5,S,True,True,14.5,1,Young adult
+1,1,female,22.0,0,2,49.5,C,False,False,49.5,3,Young adult
+1,1,female,36.0,0,2,71.0,S,False,False,71.0,3,Adult
+0,3,female,9.0,4,2,31.275,S,False,False,31.275,7,Child
+0,3,female,11.0,4,2,31.275,S,False,False,31.275,7,Child
+1,2,male,32.0,1,0,26.0,S,False,False,26.0,2,Young adult
+0,1,male,50.0,1,0,106.425,C,False,False,106.425,2,Adult
+0,1,male,64.0,0,0,26.0,S,True,False,26.0,1,Senior
+1,2,female,19.0,1,0,26.0,S,False,False,26.0,2,Young adult
+1,2,male,30.0,0,0,13.8625,C,True,True,13.8625,1,Young adult
+0,3,male,33.0,1,1,20.525,S,False,False,20.525,3,Young adult
+1,2,male,8.0,1,1,36.75,S,False,False,36.75,3,Child
+1,1,male,17.0,0,2,110.8833,C,False,False,110.8833,3,Teen
+0,2,male,27.0,0,0,26.0,S,True,False,26.0,1,Young adult
+0,3,male,25.0,0,0,7.8292,Q,True,True,7.8292,1,Young adult
+1,3,male,22.0,0,0,7.225,C,True,False,7.225,1,Young adult
+1,3,female,22.0,0,0,7.775,S,True,False,7.775,1,Young adult
+0,1,male,62.0,0,0,26.55,S,True,False,26.55,1,Senior
+1,1,female,48.0,1,0,39.6,C,False,False,39.6,2,Adult
+0,1,male,40.0,0,0,227.525,C,True,True,227.525,1,Adult
+1,1,female,39.0,1,1,79.65,S,False,False,79.65,3,Adult
+1,3,female,36.0,1,0,17.4,S,False,False,17.4,2,Adult
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,3,male,40.0,0,0,7.8958,S,True,False,7.8958,1,Adult
+0,2,male,28.0,0,0,13.5,S,True,False,13.5,1,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+0,3,female,21.5,0,0,8.05,S,True,True,8.05,1,Young adult
+0,3,male,24.0,2,0,24.15,S,False,False,24.15,3,Young adult
+0,3,male,19.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,3,female,29.0,0,4,21.075,S,False,False,21.075,5,Young adult
+0,3,male,25.0,0,0,7.2292,C,True,True,7.2292,1,Young adult
+1,3,male,32.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+1,2,male,62.0,0,0,10.5,S,True,False,10.5,1,Senior
+1,1,female,53.0,2,0,51.4792,S,False,False,51.4792,3,Adult
+1,1,male,36.0,0,0,26.3875,S,True,False,26.3875,1,Adult
+1,3,female,21.5,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,3,male,16.0,0,0,8.05,S,True,False,8.05,1,Teen
+0,3,male,19.0,0,0,14.5,S,True,False,14.5,1,Young adult
+1,2,female,34.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,1,female,39.0,1,0,55.9,S,False,False,55.9,2,Adult
+0,3,female,21.5,1,0,14.4583,C,False,True,14.4583,2,Young adult
+1,3,male,32.0,0,0,7.925,S,True,False,7.925,1,Young adult
+1,2,female,25.0,1,1,30.0,S,False,False,30.0,3,Young adult
+1,1,female,39.0,1,1,110.8833,C,False,False,110.8833,3,Adult
+0,2,male,54.0,0,0,26.0,S,True,False,26.0,1,Adult
+0,1,male,36.0,0,0,40.125,C,True,False,40.125,1,Adult
+0,3,male,25.0,0,0,8.7125,C,True,True,8.7125,1,Young adult
+1,1,female,18.0,0,2,79.65,S,False,False,79.65,3,Teen
+0,2,male,47.0,0,0,15.0,S,True,False,15.0,1,Adult
+1,1,male,60.0,1,1,79.2,C,False,False,79.2,3,Adult
+0,3,male,22.0,0,0,8.05,S,True,False,8.05,1,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+0,3,male,35.0,0,0,7.125,S,True,False,7.125,1,Young adult
+1,1,female,52.0,1,0,78.2667,C,False,False,78.2667,2,Adult
+0,3,male,47.0,0,0,7.25,S,True,False,7.25,1,Adult
+0,3,female,21.5,0,2,7.75,Q,False,True,7.75,3,Young adult
+0,2,male,37.0,1,0,26.0,S,False,False,26.0,2,Adult
+0,3,male,36.0,1,1,24.15,S,False,False,24.15,3,Adult
+1,2,female,28.0,0,0,33.0,S,True,True,33.0,1,Young adult
+0,3,male,49.0,0,0,0.0,S,True,False,0.0,1,Adult
+0,3,male,25.0,0,0,7.225,C,True,True,7.225,1,Young adult
+1,1,male,49.0,1,0,56.9292,C,False,False,56.9292,2,Adult
+1,2,female,24.0,2,1,27.0,S,False,False,27.0,4,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,1,male,40.0,0,0,42.4,S,True,True,42.4,1,Adult
+0,3,male,44.0,0,0,8.05,S,True,False,8.05,1,Adult
+1,1,male,35.0,0,0,26.55,C,True,False,26.55,1,Young adult
+0,3,male,36.0,1,0,15.55,S,False,False,15.55,2,Adult
+0,3,male,30.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,1,male,27.0,0,0,30.5,S,True,False,30.5,1,Young adult
+1,2,female,22.0,1,2,41.5792,C,False,False,41.5792,4,Young adult
+1,1,female,40.0,0,0,153.4625,S,True,False,153.4625,1,Adult
+0,3,female,39.0,1,5,31.275,S,False,False,31.275,7,Adult
+0,3,male,25.0,0,0,7.05,S,True,True,7.05,1,Young adult
+1,3,female,21.5,1,0,15.5,Q,False,True,15.5,2,Young adult
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,3,male,35.0,0,0,8.05,S,True,False,8.05,1,Young adult
+1,2,female,24.0,1,2,65.0,S,False,False,65.0,4,Young adult
+0,3,male,34.0,1,1,14.4,S,False,False,14.4,3,Young adult
+0,3,female,26.0,1,0,16.1,S,False,False,16.1,2,Young adult
+1,2,female,4.0,2,1,39.0,S,False,False,39.0,4,Child
+0,2,male,26.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,27.0,1,0,14.4542,C,False,False,14.4542,2,Young adult
+1,1,male,42.0,1,0,52.5542,S,False,False,52.5542,2,Adult
+1,3,male,20.0,1,1,15.7417,C,False,False,15.7417,3,Young adult
+0,3,male,21.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+0,3,male,21.0,0,0,16.1,S,True,False,16.1,1,Young adult
+0,1,male,61.0,0,0,32.3208,S,True,False,32.3208,1,Senior
+0,2,male,57.0,0,0,12.35,Q,True,False,12.35,1,Adult
+1,1,female,21.0,0,0,77.9583,S,True,False,77.9583,1,Young adult
+0,3,male,26.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,3,male,25.0,0,0,7.7333,Q,True,True,7.7333,1,Young adult
+1,1,male,80.0,0,0,30.0,S,True,False,30.0,1,Senior
+0,3,male,51.0,0,0,7.0542,S,True,False,7.0542,1,Adult
+1,1,male,32.0,0,0,30.5,C,True,False,30.5,1,Young adult
+0,1,male,40.0,0,0,0.0,S,True,True,0.0,1,Adult
+0,3,female,9.0,3,2,27.9,S,False,False,27.9,6,Child
+1,2,female,28.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,male,32.0,0,0,7.925,S,True,False,7.925,1,Young adult
+0,2,male,31.0,1,1,26.25,S,False,False,26.25,3,Young adult
+0,3,female,41.0,0,5,39.6875,S,False,False,39.6875,6,Adult
+0,3,male,25.0,1,0,16.1,S,False,True,16.1,2,Young adult
+0,3,male,20.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+1,1,female,24.0,0,0,69.3,C,True,False,69.3,1,Young adult
+0,3,female,2.0,3,2,27.9,S,False,False,27.9,6,Child
+1,3,male,25.0,0,0,56.4958,S,True,True,56.4958,1,Young adult
+1,3,female,0.75,2,1,19.2583,C,False,False,19.2583,4,Child
+1,1,male,48.0,1,0,76.7292,C,False,False,76.7292,2,Adult
+0,3,male,19.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,1,male,56.0,0,0,35.5,C,True,False,35.5,1,Adult
+0,3,male,25.0,0,0,7.55,S,True,True,7.55,1,Young adult
+1,3,female,23.0,0,0,7.55,S,True,False,7.55,1,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+1,2,female,18.0,0,1,23.0,S,False,False,23.0,2,Teen
+0,3,male,21.0,0,0,8.4333,S,True,False,8.4333,1,Young adult
+1,3,female,21.5,0,0,7.8292,Q,True,True,7.8292,1,Young adult
+0,3,female,18.0,0,0,6.75,Q,True,False,6.75,1,Teen
+0,2,male,24.0,2,0,73.5,S,False,False,73.5,3,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,3,female,32.0,1,1,15.5,Q,False,False,15.5,3,Young adult
+0,2,male,23.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,1,male,58.0,0,2,113.275,C,False,False,113.275,3,Adult
+1,1,male,50.0,2,0,133.65,S,False,False,133.65,3,Adult
+0,3,male,40.0,0,0,7.225,C,True,False,7.225,1,Adult
+0,1,male,47.0,0,0,25.5875,S,True,False,25.5875,1,Adult
+0,3,male,36.0,0,0,7.4958,S,True,False,7.4958,1,Adult
+1,3,male,20.0,1,0,7.925,S,False,False,7.925,2,Young adult
+0,2,male,32.0,2,0,73.5,S,False,False,73.5,3,Young adult
+0,2,male,25.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,male,25.0,0,0,7.775,S,True,True,7.775,1,Young adult
+0,3,male,43.0,0,0,8.05,S,True,False,8.05,1,Adult
+1,1,female,35.0,1,0,52.0,S,False,True,52.0,2,Young adult
+1,2,female,40.0,1,1,39.0,S,False,False,39.0,3,Adult
+0,1,male,31.0,1,0,52.0,S,False,False,52.0,2,Young adult
+0,2,male,70.0,0,0,10.5,S,True,False,10.5,1,Senior
+1,2,male,31.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,2,male,30.0,0,0,0.0,S,True,True,0.0,1,Young adult
+0,3,male,18.0,0,0,7.775,S,True,False,7.775,1,Teen
+0,3,male,24.5,0,0,8.05,S,True,False,8.05,1,Young adult
+1,3,female,18.0,0,0,9.8417,S,True,False,9.8417,1,Teen
+0,3,female,43.0,1,6,46.9,S,False,False,46.9,8,Adult
+1,1,male,36.0,0,1,512.3292,C,False,False,249.00622000000035,2,Adult
+0,3,female,21.5,0,0,8.1375,Q,True,True,8.1375,1,Young adult
+1,1,male,27.0,0,0,76.7292,C,True,False,76.7292,1,Young adult
+0,3,male,20.0,0,0,9.225,S,True,False,9.225,1,Young adult
+0,3,male,14.0,5,2,46.9,S,False,False,46.9,8,Teen
+0,2,male,60.0,1,1,39.0,S,False,False,39.0,3,Adult
+0,2,male,25.0,1,2,41.5792,C,False,False,41.5792,4,Young adult
+0,3,male,14.0,4,1,39.6875,S,False,False,39.6875,6,Teen
+0,3,male,19.0,0,0,10.1708,S,True,False,10.1708,1,Young adult
+0,3,male,18.0,0,0,7.7958,S,True,False,7.7958,1,Teen
+1,1,female,15.0,0,1,211.3375,S,False,False,211.3375,2,Teen
+1,1,male,31.0,1,0,57.0,S,False,False,57.0,2,Young adult
+1,3,female,4.0,0,1,13.4167,C,False,False,13.4167,2,Child
+1,3,male,25.0,0,0,56.4958,S,True,True,56.4958,1,Young adult
+0,3,male,25.0,0,0,7.225,C,True,False,7.225,1,Young adult
+0,1,male,60.0,0,0,26.55,S,True,False,26.55,1,Adult
+0,2,male,52.0,0,0,13.5,S,True,False,13.5,1,Adult
+0,3,male,44.0,0,0,8.05,S,True,False,8.05,1,Adult
+1,3,female,21.5,0,0,7.7333,Q,True,True,7.7333,1,Young adult
+0,1,male,49.0,1,1,110.8833,C,False,False,110.8833,3,Adult
+0,3,male,42.0,0,0,7.65,S,True,False,7.65,1,Adult
+1,1,female,18.0,1,0,227.525,C,False,False,227.525,2,Teen
+1,1,male,35.0,0,0,26.2875,S,True,False,26.2875,1,Young adult
+0,3,female,18.0,0,1,14.4542,C,False,False,14.4542,2,Teen
+0,3,male,25.0,0,0,7.7417,Q,True,False,7.7417,1,Young adult
+0,3,male,26.0,1,0,7.8542,S,False,False,7.8542,2,Young adult
+0,2,male,39.0,0,0,26.0,S,True,False,26.0,1,Adult
+1,2,female,45.0,0,0,13.5,S,True,False,13.5,1,Adult
+1,1,male,42.0,0,0,26.2875,S,True,False,26.2875,1,Adult
+1,1,female,22.0,0,0,151.55,S,True,False,151.55,1,Young adult
+1,3,male,25.0,1,1,15.2458,C,False,True,15.2458,3,Young adult
+1,1,female,24.0,0,0,49.5042,C,True,False,49.5042,1,Young adult
+0,1,male,40.0,0,0,26.55,S,True,True,26.55,1,Adult
+1,1,male,48.0,1,0,52.0,S,False,False,52.0,2,Adult
+0,3,male,29.0,0,0,9.4833,S,True,False,9.4833,1,Young adult
+0,2,male,52.0,0,0,13.0,S,True,False,13.0,1,Adult
+0,3,male,19.0,0,0,7.65,S,True,False,7.65,1,Young adult
+1,1,female,38.0,0,0,227.525,C,True,False,227.525,1,Adult
+1,2,female,27.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,25.0,0,0,15.5,Q,True,True,15.5,1,Young adult
+0,3,male,33.0,0,0,7.775,S,True,False,7.775,1,Young adult
+1,2,female,6.0,0,1,33.0,S,False,False,33.0,2,Child
+0,3,male,17.0,1,0,7.0542,S,False,False,7.0542,2,Teen
+0,2,male,34.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,2,male,50.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,1,male,27.0,1,0,53.1,S,False,False,53.1,2,Young adult
+0,3,male,20.0,0,0,8.6625,S,True,False,8.6625,1,Young adult
+1,2,female,30.0,3,0,21.0,S,False,False,21.0,4,Young adult
+1,3,female,21.5,0,0,7.7375,Q,True,True,7.7375,1,Young adult
+0,2,male,25.0,1,0,26.0,S,False,False,26.0,2,Young adult
+0,3,female,25.0,1,0,7.925,S,False,False,7.925,2,Young adult
+1,1,female,29.0,0,0,211.3375,S,True,False,211.3375,1,Young adult
+0,3,male,11.0,0,0,18.7875,C,True,False,18.7875,1,Child
+0,2,male,30.0,0,0,0.0,S,True,True,0.0,1,Young adult
+0,2,male,23.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,2,male,23.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,3,male,28.5,0,0,16.1,S,True,False,16.1,1,Young adult
+0,3,female,48.0,1,3,34.375,S,False,False,34.375,5,Adult
+1,1,male,35.0,0,0,512.3292,C,True,False,249.00622000000035,1,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+1,1,male,40.0,0,0,30.0,S,True,True,30.0,1,Adult
+0,1,male,36.0,1,0,78.85,S,False,False,78.85,2,Adult
+1,1,female,21.0,2,2,262.375,C,False,False,249.00622000000035,5,Young adult
+0,3,male,24.0,1,0,16.1,S,False,False,16.1,2,Young adult
+1,3,male,31.0,0,0,7.925,S,True,False,7.925,1,Young adult
+0,1,male,70.0,1,1,71.0,S,False,False,71.0,3,Senior
+0,3,male,16.0,1,1,20.25,S,False,False,20.25,3,Teen
+1,2,female,30.0,0,0,13.0,S,True,False,13.0,1,Young adult
+0,1,male,19.0,1,0,53.1,S,False,False,53.1,2,Young adult
+0,3,male,31.0,0,0,7.75,Q,True,False,7.75,1,Young adult
+1,2,female,4.0,1,1,23.0,S,False,False,23.0,3,Child
+1,3,male,6.0,0,1,12.475,S,False,False,12.475,2,Child
+0,3,male,33.0,0,0,9.5,S,True,False,9.5,1,Young adult
+0,3,male,23.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,2,female,48.0,1,2,65.0,S,False,False,65.0,4,Adult
+1,2,male,0.67,1,1,14.5,S,False,False,14.5,3,Child
+0,3,male,28.0,0,0,7.7958,S,True,False,7.7958,1,Young adult
+0,2,male,18.0,0,0,11.5,S,True,False,11.5,1,Teen
+0,3,male,34.0,0,0,8.05,S,True,False,8.05,1,Young adult
+1,1,female,33.0,0,0,86.5,S,True,False,86.5,1,Young adult
+0,3,male,25.0,0,0,14.5,S,True,True,14.5,1,Young adult
+0,3,male,41.0,0,0,7.125,S,True,False,7.125,1,Adult
+1,3,male,20.0,0,0,7.2292,C,True,False,7.2292,1,Young adult
+1,1,female,36.0,1,2,120.0,S,False,False,120.0,4,Adult
+0,3,male,16.0,0,0,7.775,S,True,False,7.775,1,Teen
+1,1,female,51.0,1,0,77.9583,S,False,False,77.9583,2,Adult
+0,1,male,40.0,0,0,39.6,C,True,True,39.6,1,Adult
+0,3,female,30.5,0,0,7.75,Q,True,False,7.75,1,Young adult
+0,3,male,25.0,1,0,24.15,Q,False,True,24.15,2,Young adult
+0,3,male,32.0,0,0,8.3625,S,True,False,8.3625,1,Young adult
+0,3,male,24.0,0,0,9.5,S,True,False,9.5,1,Young adult
+0,3,male,48.0,0,0,7.8542,S,True,False,7.8542,1,Adult
+0,2,female,57.0,0,0,10.5,S,True,False,10.5,1,Adult
+0,3,male,25.0,0,0,7.225,C,True,True,7.225,1,Young adult
+1,2,female,54.0,1,3,23.0,S,False,False,23.0,5,Adult
+0,3,male,18.0,0,0,7.75,S,True,False,7.75,1,Teen
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,3,female,5.0,0,0,12.475,S,True,False,12.475,1,Child
+0,3,male,25.0,0,0,7.7375,Q,True,True,7.7375,1,Young adult
+1,1,female,43.0,0,1,211.3375,S,False,False,211.3375,2,Adult
+1,3,female,13.0,0,0,7.2292,C,True,False,7.2292,1,Teen
+1,1,female,17.0,1,0,57.0,S,False,False,57.0,2,Teen
+0,1,male,29.0,0,0,30.0,S,True,False,30.0,1,Young adult
+0,3,male,25.0,1,2,23.45,S,False,True,23.45,4,Young adult
+0,3,male,25.0,0,0,7.05,S,True,False,7.05,1,Young adult
+0,3,male,25.0,0,0,7.25,S,True,False,7.25,1,Young adult
+1,3,female,18.0,0,0,7.4958,S,True,False,7.4958,1,Teen
+0,3,male,8.0,4,1,29.125,Q,False,False,29.125,6,Child
+1,3,male,1.0,1,2,20.575,S,False,False,20.575,4,Child
+0,1,male,46.0,0,0,79.2,C,True,False,79.2,1,Adult
+0,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+0,2,male,16.0,0,0,26.0,S,True,False,26.0,1,Teen
+0,3,female,21.5,8,2,69.55,S,False,True,69.55,11,Young adult
+0,1,male,40.0,0,0,30.6958,C,True,True,30.6958,1,Adult
+0,3,male,25.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,2,male,39.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,1,female,49.0,0,0,25.9292,S,True,False,25.9292,1,Adult
+1,3,female,31.0,0,0,8.6833,S,True,False,8.6833,1,Young adult
+0,3,male,30.0,0,0,7.2292,C,True,False,7.2292,1,Young adult
+0,3,female,30.0,1,1,24.15,S,False,False,24.15,3,Young adult
+0,2,male,34.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,2,female,31.0,1,1,26.25,S,False,False,26.25,3,Young adult
+1,1,male,11.0,1,2,120.0,S,False,False,120.0,4,Child
+1,3,male,0.42,0,1,8.5167,C,False,False,8.5167,2,Child
+1,3,male,27.0,0,0,6.975,S,True,False,6.975,1,Young adult
+0,3,male,31.0,0,0,7.775,S,True,False,7.775,1,Young adult
+0,1,male,39.0,0,0,0.0,S,True,False,0.0,1,Adult
+0,3,female,18.0,0,0,7.775,S,True,False,7.775,1,Teen
+0,2,male,39.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,1,female,33.0,1,0,53.1,S,False,False,53.1,2,Young adult
+0,3,male,26.0,0,0,7.8875,S,True,False,7.8875,1,Young adult
+0,3,male,39.0,0,0,24.15,S,True,False,24.15,1,Adult
+0,2,male,35.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,female,6.0,4,2,31.275,S,False,False,31.275,7,Child
+0,3,male,30.5,0,0,8.05,S,True,False,8.05,1,Young adult
+0,1,male,40.0,0,0,0.0,S,True,True,0.0,1,Adult
+0,3,female,23.0,0,0,7.925,S,True,False,7.925,1,Young adult
+0,2,male,31.0,1,1,37.0042,C,False,False,37.0042,3,Young adult
+0,3,male,43.0,0,0,6.45,S,True,False,6.45,1,Adult
+0,3,male,10.0,3,2,27.9,S,False,False,27.9,6,Child
+1,1,female,52.0,1,1,93.5,S,False,False,93.5,3,Adult
+1,3,male,27.0,0,0,8.6625,S,True,False,8.6625,1,Young adult
+0,1,male,38.0,0,0,0.0,S,True,False,0.0,1,Adult
+1,3,female,27.0,0,1,12.475,S,False,False,12.475,2,Young adult
+0,3,male,2.0,4,1,39.6875,S,False,False,39.6875,6,Child
+0,3,male,25.0,0,0,6.95,Q,True,True,6.95,1,Young adult
+0,3,male,25.0,0,0,56.4958,S,True,True,56.4958,1,Young adult
+1,2,male,1.0,0,2,37.0042,C,False,False,37.0042,3,Child
+1,3,male,25.0,0,0,7.75,Q,True,True,7.75,1,Young adult
+1,1,female,62.0,0,0,80.0,S,True,False,80.0,1,Senior
+1,3,female,15.0,1,0,14.4542,C,False,False,14.4542,2,Teen
+1,2,male,0.83,1,1,18.75,S,False,False,18.75,3,Child
+0,3,male,25.0,0,0,7.2292,C,True,True,7.2292,1,Young adult
+0,3,male,23.0,0,0,7.8542,S,True,False,7.8542,1,Young adult
+0,3,male,18.0,0,0,8.3,S,True,False,8.3,1,Teen
+1,1,female,39.0,1,1,83.1583,C,False,False,83.1583,3,Adult
+0,3,male,21.0,0,0,8.6625,S,True,False,8.6625,1,Young adult
+0,3,male,25.0,0,0,8.05,S,True,True,8.05,1,Young adult
+1,3,male,32.0,0,0,56.4958,S,True,False,56.4958,1,Young adult
+1,1,male,40.0,0,0,29.7,C,True,True,29.7,1,Adult
+0,3,male,20.0,0,0,7.925,S,True,False,7.925,1,Young adult
+0,2,male,16.0,0,0,10.5,S,True,False,10.5,1,Teen
+1,1,female,30.0,0,0,31.0,C,True,False,31.0,1,Young adult
+0,3,male,34.5,0,0,6.4375,C,True,False,6.4375,1,Young adult
+0,3,male,17.0,0,0,8.6625,S,True,False,8.6625,1,Teen
+0,3,male,42.0,0,0,7.55,S,True,False,7.55,1,Adult
+0,3,male,25.0,8,2,69.55,S,False,True,69.55,11,Young adult
+0,3,male,35.0,0,0,7.8958,C,True,False,7.8958,1,Young adult
+0,2,male,28.0,0,1,33.0,S,False,False,33.0,2,Young adult
+1,1,female,35.0,1,0,89.1042,C,False,True,89.1042,2,Young adult
+0,3,male,4.0,4,2,31.275,S,False,False,31.275,7,Child
+0,3,male,74.0,0,0,7.775,S,True,False,7.775,1,Senior
+0,3,female,9.0,1,1,15.2458,C,False,False,15.2458,3,Child
+1,1,female,16.0,0,1,39.4,S,False,False,39.4,2,Teen
+0,2,female,44.0,1,0,26.0,S,False,False,26.0,2,Adult
+1,3,female,18.0,0,1,9.35,S,False,False,9.35,2,Teen
+1,1,female,45.0,1,1,164.8667,S,False,False,164.8667,3,Adult
+1,1,male,51.0,0,0,26.55,S,True,False,26.55,1,Adult
+1,3,female,24.0,0,3,19.2583,C,False,False,19.2583,4,Young adult
+0,3,male,25.0,0,0,7.2292,C,True,True,7.2292,1,Young adult
+0,3,male,41.0,2,0,14.1083,S,False,False,14.1083,3,Adult
+0,2,male,21.0,1,0,11.5,S,False,False,11.5,2,Young adult
+1,1,female,48.0,0,0,25.9292,S,True,False,25.9292,1,Adult
+0,3,female,21.5,8,2,69.55,S,False,True,69.55,11,Young adult
+0,2,male,24.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,2,female,42.0,0,0,13.0,S,True,False,13.0,1,Adult
+1,2,female,27.0,1,0,13.8583,C,False,False,13.8583,2,Young adult
+0,1,male,31.0,0,0,50.4958,S,True,False,50.4958,1,Young adult
+0,3,male,25.0,0,0,9.5,S,True,True,9.5,1,Young adult
+1,3,male,4.0,1,1,11.1333,S,False,False,11.1333,3,Child
+0,3,male,26.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+1,1,female,47.0,1,1,52.5542,S,False,False,52.5542,3,Adult
+0,1,male,33.0,0,0,5.0,S,True,False,5.0,1,Young adult
+0,3,male,47.0,0,0,9.0,S,True,False,9.0,1,Adult
+1,2,female,28.0,1,0,24.0,C,False,False,24.0,2,Young adult
+1,3,female,15.0,0,0,7.225,C,True,False,7.225,1,Teen
+0,3,male,20.0,0,0,9.8458,S,True,False,9.8458,1,Young adult
+0,3,male,19.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,3,male,25.0,0,0,7.8958,S,True,True,7.8958,1,Young adult
+1,1,female,56.0,0,1,83.1583,C,False,False,83.1583,2,Adult
+1,2,female,25.0,0,1,26.0,S,False,False,26.0,2,Young adult
+0,3,male,33.0,0,0,7.8958,S,True,False,7.8958,1,Young adult
+0,3,female,22.0,0,0,10.5167,S,True,False,10.5167,1,Young adult
+0,2,male,28.0,0,0,10.5,S,True,False,10.5,1,Young adult
+0,3,male,25.0,0,0,7.05,S,True,False,7.05,1,Young adult
+0,3,female,39.0,0,5,29.125,Q,False,False,29.125,6,Adult
+0,2,male,27.0,0,0,13.0,S,True,False,13.0,1,Young adult
+1,1,female,19.0,0,0,30.0,S,True,False,30.0,1,Young adult
+0,3,female,21.5,1,2,23.45,S,False,True,23.45,4,Young adult
+1,1,male,26.0,0,0,30.0,C,True,False,30.0,1,Young adult
+0,3,male,32.0,0,0,7.75,Q,True,False,7.75,1,Young adult
